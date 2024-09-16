@@ -1,0 +1,2 @@
+tar:. name=policy-templates
+spec: .gear/admx-thunderbird.spec
